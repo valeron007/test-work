@@ -1,0 +1,5 @@
+# This file is auto-generated during the composer install
+parameters:
+    locale: en
+    env(DATABASE_URL): 'sqlite:///%kernel.project_dir%/var/test.sqlite'
+
